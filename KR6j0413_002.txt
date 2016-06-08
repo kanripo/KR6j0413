@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:58.423025
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:05
 #+TITLE: 佛說最勝妙吉祥根本智最上祕密一切名義三摩地分
 #+PROPERTY: CBETA_ID T20n1187
 #+PROPERTY: ID KR6j0413
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1187
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0413_T_000-0808a>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0413_T_002-0811b> ¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 佛說最勝妙吉祥根本智最上祕¶
+佛說最勝妙吉祥根本智最上祕¶
 密一切名義三摩地分卷下¶
 ¶
 西天釋經三藏朝奉大夫試鴻臚卿¶
@@ -206,9 +205,9 @@
 　第一義清淨
 　三世勝妙主¶
 　諸所作吉祥
-　妙德勝根本
+　妙德勝根本」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　歸命金剛大施願
@@ -230,9 +229,9 @@
 　歸命最上幻化網
 　歸命諸佛大嬉戲¶
 　一切有情所稱讚
-　是故歸命正智聚
+　是故歸命正智聚」
 #+END_VERSE
-」¶
+¶
 
 復次金剛手菩薩大執金剛者。如我所說祕¶
 密名義。是即一切如來智頂。一切如來智身。¶
@@ -434,8 +433,8 @@
 　最上方廣甚深義
 　普為世間作利益¶
 　此即諸佛聖境界
-　一切如來盡宣說
+　一切如來盡宣說」
 #+END_VERSE
-」¶
+¶
 佛說最勝妙吉祥根本智最上祕密一切名義¶
 三摩地分卷下
